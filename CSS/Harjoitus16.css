@@ -1,6 +1,6 @@
-﻿h1 {
+﻿#Headline1 {
 	color: green;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Merriweather', serif;
 }
 #n1 {
 	color: yellow; font-size: 8px;
@@ -31,4 +31,19 @@
 }
 #n10 {
 	color: plum; font-size: 8px;
+}
+#Headline2 {
+	font-family: 'Raleway', sans-serif;
+}
+#text1 {
+	font-family: 'Sigmar One', cursive;
+}
+#text2 {
+	font-family: 'Open Sans', sans-serif;
+}
+#text3 {
+	font-family: 'Lato', sans-serif;
+}
+#text4 {
+ font-family: 'Zhi Mang Xing', cursive;
 }
