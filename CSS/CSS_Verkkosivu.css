@@ -4,7 +4,7 @@
 header
 {
 height: 100px;
-background: #F54C00;
+background: #01F0FE;
 }
 h1
 {
@@ -15,7 +15,7 @@ nav
 {
 width: 700px;
 height: 20px;
-background: #F54C00
+background: #01F0FE;
 margin-left: 200px;
 
 }
@@ -46,7 +46,7 @@ padding: 10 px 0 0 10px;
 article
 {
 width: 400px;
-background: #F54C00
+background: #01F0FE
 ;
 }
 article p
@@ -70,14 +70,18 @@ padding: 10px 0 0 10px;
 aside article
 {
 width: 200px;
-background: #F54C00;
+background: #000000;
 color: #;
+color: #fff;
 }
 footer
 {
 height: 40px;
-background:#F54C00;
-margin-top: -16px;
+background:#000000;
+margin-bottom: -16px;
+color: #fff;
+position: bottom;
+
 }
 footer p
 {
