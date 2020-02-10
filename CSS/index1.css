@@ -17,9 +17,15 @@ aside {
 nav {
     color: red;
     position: absolute;
-    top:125px;
-    right: 40px;
-    background-color: darkblue;
+    top:40px;
+    right: 50px;
+    padding: 10px;
+    list-style-type: circle;
+
+
+}
+ul {
+color: black;
 }
 header {
     color: black;
@@ -49,11 +55,11 @@ header {
         left: 0px;
     }
     a:link {
-        color: black;
+        color: white;
         text-decoration: none;
     }
     a:visited {
-        color: red;
+        color: black;
     }
     a:hover {
         text-decoration: line-through;
